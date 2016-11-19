@@ -1,4 +1,4 @@
-# Investigacion
+# Investigación
 
 Para a posta en marcha do Co-Lab entendeuse imprescindible realizar un mapeado e unha investigación previa co obxectivo principal de recoller información, experiencias e críticas que axudaran a construír o Obradoido de definición e o propio Co-Lab.
 
